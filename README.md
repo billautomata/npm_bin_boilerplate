@@ -6,4 +6,4 @@ I always forget how this works.
 
 Clone the repo
 
-`npm link`
+`sudo npm link`
